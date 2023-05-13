@@ -1,1 +1,3 @@
-# ETH_review
+# Time chart (ETH example)
+
+The notebook is designed to teach you how to create time series plots and financial plots using Python. It covers different types of plots such as line charts, candlestick charts, and interactive plots. It also explains how to handle datetime variables and how to customize your plots. These skills are especially useful for those interested in finance, as they can be used to analyze and visualize financial data over time. By following the examples and exercises in this notebook, you will gain a solid understanding of how to create informative and visually appealing time series and financial plots.
